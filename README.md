@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Gabriel Jel Blessly Aipassa**.<br>
  
-Saya seorang **Mahasiswa Tingkat Akhir** di [IPB University](https://www.ipb.ac.id/).<br>
+Saya seorang **Mahasiswa Tingkat Akhir Jurusan Matematika** di [IPB University](https://www.ipb.ac.id/).<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/gabrieljelblessly)ku ya.
  
