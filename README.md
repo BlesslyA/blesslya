@@ -23,10 +23,19 @@ My name is **Gabriel Jel Blessly Aipassa**, but you can call me **Gabriel** or *
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,swift,python,r,mysql,git,github" />
-</p>
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
@@ -45,11 +54,14 @@ My name is **Gabriel Jel Blessly Aipassa**, but you can call me **Gabriel** or *
 
 <br>
 
-### 📌 Popular Repository
+### 📌 Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/blesslya/DashboardBuildingTest-Tableu-MataKuliah-VisualisasiData">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=blesslya&repo=DashboardBuildingTest-Tableu-MataKuliah-VisualisasiData&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/BlesslyA/Belajar-Analisis-Data-untuk-Pemula-dicoding">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=blesslya&repo=Belajar-Analisis-Data-untuk-Pemula-dicoding&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/BlesslyA/DashboardProyekKelompok10-Tableu-MataKuliah-VisualisasiData">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=blesslya&repo=DashboardProyekKelompok10-Tableu-MataKuliah-VisualisasiData&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
