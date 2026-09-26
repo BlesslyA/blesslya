@@ -54,19 +54,6 @@ My name is **Gabriel Jel Blessly Aipassa**, but you can call me **Gabriel** or *
 
 <br>
 
-### 📌 Popular Repositories
-
-<p align="center">
-  <a href="https://github.com/BlesslyA/Belajar-Analisis-Data-untuk-Pemula-dicoding">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=blesslya&repo=Belajar-Analisis-Data-untuk-Pemula-dicoding&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/BlesslyA/DashboardProyekKelompok10-Tableu-MataKuliah-VisualisasiData">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=blesslya&repo=DashboardProyekKelompok10-Tableu-MataKuliah-VisualisasiData&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<br>
-
 ### 🌐 Connect with Me
 
 <p align="left">
