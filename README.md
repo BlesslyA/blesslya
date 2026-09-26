@@ -1,4 +1,4 @@
-# Halo semua!
+# Yhanks for visiting Y'all!
 
 Perkenalkan nama saya **Gabriel Jel Blessly Aipassa**.<br>
  
