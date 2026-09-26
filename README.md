@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%20There!%20I'm%20Gabriel%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/gabrieljelblessly">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=Final+Year+Mathematics+Student;Data+Science+%7C+Data +Anayst+%7C+AI/ML;Driven+by+Curiosity+%26+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=Final+Year+Mathematics+Student;Data+Science+%7C+Math+%7C+Informatics;Driven+by+Curiosity+%26+Data" alt="Typing SVG" />
 </a>
 
 </div>
