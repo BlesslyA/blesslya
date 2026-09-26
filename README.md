@@ -1,10 +1,10 @@
-# Yhanks for visiting Y'all!
+# Thanks for visiting yall!
 
-Perkenalkan nama saya **Gabriel Jel Blessly Aipassa**.<br>
+My name is **Gabriel Jel Blessly Aipassa** but also u guy's can call me **Gabriel/Bless** .<br>
  
-Saya seorang **Mahasiswa Tingkat Akhir Jurusan Matematika** di [IPB University](https://www.ipb.ac.id/).<br>
+I'm a **Final Year Mathematics Student (School of Data Science, Mathematics, and Informatics)** at [IPB University](https://www.ipb.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gabrieljelblessly) ku ya.
+if you interested, let's connect my [Linkedin](https://www.linkedin.com/in/gabrieljelblessly)
 
 ### Github Statistic
 <p align="left">
