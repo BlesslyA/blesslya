@@ -1,4 +1,8 @@
-# Halo semua! 
+# Halo semua!
+
+<p align="center">
+  <img src="assets/bonsai-growth.gif" width="384" alt="A procedurally generated pixel-art bonsai growing from a seed" />
+</p>
  
 Perkenalkan nama saya **Gabriel Jel Blessly Aipassa**.<br>
  
