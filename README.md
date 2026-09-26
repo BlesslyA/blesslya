@@ -1,6 +1,6 @@
 # Thanks for visiting yall!
 
-My name is **Gabriel Jel Blessly Aipassa** but also u guy's can call me **Gabriel/Bless** .<br>
+My name is **Gabriel Jel Blessly Aipassa** but also you can call me **Gabriel/Bless** .<br>
  
 I'm a **Final Year Mathematics Student (School of Data Science, Mathematics, and Informatics)** at [IPB University](https://www.ipb.ac.id/).<br>
  
