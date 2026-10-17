@@ -8,9 +8,9 @@
 
 </div>
 
-### Thanks for visiting y'all!!👋
+###    Thanks for visiting y'all!!👋
 
-I'm **Gabriel Jel Blessly Aipassa**, AKA **Gabriel** or also **Bless**.
+👨 I'm **Gabriel Jel Blessly Aipassa**, AKA **Gabriel** or also **Bless**.
 
 🎓 Now I'm a **Final Year Mathematics Student** (School of Data Science, Mathematics, and Informatics) at [**IPB University**](https://www.ipb.ac.id/).
 
