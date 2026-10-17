@@ -12,7 +12,7 @@
 
 I'm **Gabriel Jel Blessly Aipassa**, AKA **Gabriel** or also **Bless**.
 
-🎓 I'm a **Final Year Mathematics Student** (School of Data Science, Mathematics, and Informatics) at [**IPB University**](https://www.ipb.ac.id/).
+🎓 Now I'm a **Final Year Mathematics Student** (School of Data Science, Mathematics, and Informatics) at [**IPB University**](https://www.ipb.ac.id/).
 
 📫 If you're interested, let's connect on [**LinkedIn**](https://www.linkedin.com/in/gabrieljelblessly)!
 
