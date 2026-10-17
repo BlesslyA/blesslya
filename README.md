@@ -14,8 +14,6 @@ My name is **Gabriel Jel Blessly Aipassa**, but you can call me **Gabriel** or *
 
 🎓 I'm a **Final Year Mathematics Student** (School of Data Science, Mathematics, and Informatics) at [**IPB University**](https://www.ipb.ac.id/).
 
-🔍 Driven and dependable, with a strong foundation in analytical problem-solving and a core focus on **Data** and **AI/ML**.
-
 📫 If you're interested, let's connect on [**LinkedIn**](https://www.linkedin.com/in/gabrieljelblessly)!
 
 <br>
